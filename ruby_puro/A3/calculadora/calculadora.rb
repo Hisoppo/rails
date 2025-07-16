@@ -63,6 +63,7 @@ if option == 1
     end
 elsif option == 0
     puts 'Saindo...'
+    break
 else
     result = 'Opção inválida. Tente novamente.'
     puts result
